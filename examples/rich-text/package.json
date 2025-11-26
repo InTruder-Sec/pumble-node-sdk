@@ -15,6 +15,6 @@
     "pumble-cli": "0.0.18"
   },
   "dependencies": {
-    "pumble-sdk": "0.0.18"
+    "pumble-sdk": "0.0.37"
   }
 }
